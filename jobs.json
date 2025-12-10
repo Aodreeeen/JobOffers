@@ -12,13 +12,10 @@
     "experience_requise": "Entry level",
     "score": 9,
     "points_positifs": [
-      "Poste Backend Software Engineer correspondant aux compétences du candidat",
-      "Localisation à Hong Kong, ville internationale souhaitée",
-      "Type de contrat CDI",
-      "Technologies utilisées incluent Python, Docker et Kubernetes, qui sont pertinents pour les compétences du candidat"
+      "Localisation à Hong Kong, expérience requise entry level, technologies utilisées (Python, Docker, Kubernetes)"
     ],
     "points_negatifs": [],
-    "commentaire": "Offre de poste de développeur backend à Hong Kong avec des technologies pertinentes pour le candidat.",
+    "commentaire": "Offre de backend software engineer chez Epiq à Hong Kong, correspondant bien au profil du candidat en termes de localisation, d'expérience requise et de technologies utilisées.",
     "lien": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
     "date_publication": "2025-12-09T00:00:00.000Z",
     "nb_candidats": "117"
