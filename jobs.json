@@ -1,23 +1,28 @@
 [
   {
-    "id": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
-    "titre": "Backend Software Engineer",
-    "entreprise": "Epiq",
-    "entreprise_url": "https://www.linkedin.com/company/epiqglobal",
-    "localisation": "Hong Kong, Hong Kong SAR",
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
+    "titre": "Junior Software Engineer",
+    "entreprise": "Catalyst Growth Services",
+    "entreprise_url": "https://au.linkedin.com/company/catalyst-growth-services",
+    "localisation": "Sydney, New South Wales, Australia",
     "type_contrat": "Full-time",
     "type_travail": "Engineering and Information Technology",
-    "stack": "Python, Solr, PostgreSQL, Qdrant, Docker, Kubernetes, GitHub Actions, ArgoCD",
-    "salaire": "Non précisé",
+    "stack": "NodeJS (Typescript), ExpressJS, AWS, React Web/Native, OAuth, Lambda, DynamoDB, API Gateway",
+    "salaire": "$85K-$105K + Super",
     "experience_requise": "Entry level",
     "score": 9,
     "points_positifs": [
-      "Localisation à Hong Kong, expérience requise entry level, technologies utilisées (Python, Docker, Kubernetes)"
+      "Hybrid work avec bureau à Sydney",
+      "Développement de compétences en tant que Software Engineer",
+      "Travail avec une équipe expérimentée",
+      "Visa sponsorship disponible"
     ],
-    "points_negatifs": [],
-    "commentaire": "Offre de backend software engineer chez Epiq à Hong Kong, correspondant bien au profil du candidat en termes de localisation, d'expérience requise et de technologies utilisées.",
-    "lien": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
-    "date_publication": "2025-12-09T00:00:00.000Z",
-    "nb_candidats": "117"
+    "points_negatifs": [
+      "Exigence de connaissance de NodeJS et ExpressJS"
+    ],
+    "commentaire": "Rôle junior dans une start-up fintech à Sydney avec possibilité de développement de compétences en tant que Software Engineer",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "58"
   }
 ]
