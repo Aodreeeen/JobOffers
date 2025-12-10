@@ -1,1 +1,258 @@
-Mechatronics/Embedded Software Engineer
+[
+  {
+    "id": "1765376111966",
+    "titre": "Software Engineer - Developer Experience",
+    "entreprise": "Optiver",
+    "entreprise_url": "https://nl.linkedin.com/company/optiver",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Docker, Bazel, CMake, Ninja, Poetry, GitHub Actions, Jenkins, CI/CD pipelines, Docker images, IDE extensions, CLI tools, container-based workflows, AI assisted tools, coding agents",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Localisation internationale",
+      "Développement Full-Stack",
+      "CDI",
+      "Grandes villes internationales",
+      "Culture de collaboration et d'excellence"
+    ],
+    "points_negatifs": [
+      "Pas de technologie mentionnée qui ne correspond pas à votre profil, mais peut-être intéressante à apprendre"
+    ],
+    "commentaire": "Offre de développement Full-Stack junior avec possibilité d'expérience internationale à Sydney, Australie. Culture de collaboration et d'excellence.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-developer-experience-at-optiver-4318440429",
+    "date_publication": "2025-12-09T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants"
+  },
+  {
+    "id": "1765376111967",
+    "titre": "Junior Data Engineer - Sydney",
+    "entreprise": "GrainCorp",
+    "entreprise_url": "https://au.linkedin.com/company/graincorp",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Analyst",
+    "stack": "Python, Data pipeline architecture, ELT/ETL processes, Data modelling principles, Relational databases, Data warehousing concepts, Spark, Hadoop, Databricks, Azure, AWS, GCP, Version control systems, Collaborative development workflows, Data governance principles",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Emplacement à Sydney",
+      "Expérience en data engineering",
+      "Python obligatoire",
+      "Environnement de travail collaboratif"
+    ],
+    "points_negatifs": [
+      "Pas de salaire mentionné"
+    ],
+    "commentaire": "Poste de Junior Data Engineer à GrainCorp à Sydney, avec possibilité de développement professionnel et leadership.",
+    "lien": "https://au.linkedin.com/jobs/view/junior-data-engineer-sydney-at-graincorp-4326504771",
+    "date_publication": "2025-12-09T00:00:00.000Z",
+    "nb_candidats": "44"
+  },
+  {
+    "id": "1765376111968",
+    "titre": "Software Engineer",
+    "entreprise": "ASH consulting",
+    "entreprise_url": "https://tn.linkedin.com/company/ash-consulting-training",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, C++, Python, Ruby, JavaScript, Git, Jira, Trello, Agile methodology",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement full-stack",
+      "Collaboration avec des équipes croisées",
+      "Agile methodology",
+      "Salaire non précisé"
+    ],
+    "points_negatifs": [
+      "Contrat de 1 an"
+    ],
+    "commentaire": "Offre de développement full-stack dans une grande ville internationale avec exigences d'expérience junior.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-ash-consulting-4349137876",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "1765376111969",
+    "titre": "Full Stack Engineer/Full Stack Developer",
+    "entreprise": "We Are SBS",
+    "entreprise_url": "https://uk.linkedin.com/company/wearesbs",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "HTML, CSS, JavaScript, React, Angular, Vue, Node.js, Python, Java, C#, MySQL, PostgreSQL, MongoDB",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "CDI",
+      "Grandes villes internationales",
+      "Poste Junior"
+    ],
+    "points_negatifs": [
+      "Pas de langues de programmation précisées pour le back-end"
+    ],
+    "commentaire": "Offre de Full Stack Engineer/Full Stack Developer à Sydney, avec un salaire non précisé.",
+    "lien": "https://au.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-we-are-sbs-4326535922",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "1765376111970",
+    "titre": "C++ Software Engineer",
+    "entreprise": "IMC Trading",
+    "entreprise_url": "https://nl.linkedin.com/company/imc-trading",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "C++, Python, Linux, Docker, Kubernetes",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement en C++",
+      "Travail en équipe multidisciplinaire",
+      "Innovation et collaboration"
+    ],
+    "points_negatifs": [
+      "Niveau de difficulté élevé"
+    ],
+    "commentaire": "Poste junior en C++ avec possibilité de développement en Python, dans un environnement de trading innovant.",
+    "lien": "https://au.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-imc-trading-4320473253",
+    "date_publication": "2025-12-09T00:00:00.000Z",
+    "nb_candidats": "73"
+  },
+  {
+    "id": "1765376111971",
+    "titre": "Software Engineer, Legal Prompter",
+    "entreprise": "Thomson Reuters",
+    "entreprise_url": "https://ca.linkedin.com/company/thomson-reuters",
+    "localisation": "Pyrmont, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, LLM, APIs, SQL, OpenAI, Anthropic, Cohere, Llama, Mistral",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement en Python",
+      "Travail sur des LLM",
+      "Collaboration avec des équipes croisées",
+      "Flexibilité et équilibre vie-travail"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Poste de développement en Python avec travail sur des LLM et collaboration avec des équipes croisées. Offre de flexibilité et d'équilibre vie-travail.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-legal-prompter-at-thomson-reuters-4326444570",
+    "date_publication": "2025-12-09T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "1765376111973",
+    "titre": "ENTRY LEVEL SOFTWARE DEVELOPER",
+    "entreprise": "MFF - Morocco Future Foundation",
+    "entreprise_url": "https://ma.linkedin.com/company/morocco-future-foundation",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, Python, C++, JavaScript, HTML, CSS, Git, MySQL, PostgreSQL",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Poste junior",
+      "Localisation : Sydney",
+      "Grandes villes internationales"
+    ],
+    "points_negatifs": [
+      "Pas d'information sur le salaire"
+    ],
+    "commentaire": "Offre junior avec un bon équilibre entre les tâches et les technologies requises.",
+    "lien": "https://au.linkedin.com/jobs/view/entry-level-software-developer-at-mff-morocco-future-foundation-4349413576",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "1765376111974",
+    "titre": "Software Engineer",
+    "entreprise": "Catalyst Growth Services",
+    "entreprise_url": "https://au.linkedin.com/company/catalyst-growth-services",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "NodeJS (Typescript), ExpressJS, React Web/Native, AWS, OAuth, Lambda, DynamoDB, API Gateway",
+    "salaire": "$80K-$100K + Super",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Lieu de travail : Sydney",
+      "Hybrid work avec possibilité de télétravail",
+      "Salaire compétitif ($80K-$100K + Super)",
+      "Opportunité de travailler dans une équipe expérimentée et de continuer à apprendre"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience requis : Entry level (mais 1-2 ans d'expérience serait acceptable)"
+    ],
+    "commentaire": "Poste de développeur full-stack junior avec possibilité de télétravail et de continuer à apprendre dans une équipe expérimentée.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "30 applicants"
+  },
+  {
+    "id": "1765376111975",
+    "titre": "Software developer/ Developer programmer",
+    "entreprise": "Quantaco",
+    "entreprise_url": "https://au.linkedin.com/company/quantaco",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "C#, .Net Framework, Javascript, CSS, HTML, ASP.NET MVC, Web API, ASP.NET Core, ADO.net, ORMs (EntityFramework, Dapper.net, NHibernate), Databases (SQL Server, PostgreSQL), NoSql (Redis, MongoGB), JavaScript frameworks (AngularJs, VueJs, ExtJs), Microsoft Azure cloud platform (App Service, Service Bus, Service Fabric), Source Code Control (SVN, GITHUB)",
+    "salaire": "77,000 - 90,000 $ (plus Super)",
+    "experience_requise": "Entry level (2+ ans'",
+    "score": 7,
+    "points_positifs": [
+      "Poste junior",
+      "Localisation à l'étranger (Sydney, Australie)",
+      "CDI",
+      "Compétence technique solide (C#, .Net Framework, Javascript, etc.)"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience demandé supérieur au niveau souhaité (2+ ans'"
+    ],
+    "commentaire": "Offre de poste junior en développement logiciel avec une expérience requise de 2 ans+ et une localisation à l'étranger (Sydney, Australie).",
+    "lien": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "1765376111976",
+    "titre": "Mechatronics/Embedded Software Engineer",
+    "entreprise": "Winnable Recruitment",
+    "entreprise_url": "https://au.linkedin.com/company/winable-recruitment",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering, Research, and Information Technology",
+    "stack": "C#, Python, HTML, CSS, Arduino, microcontrollers, Raspberry Pi",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 6,
+    "points_positifs": [
+      "Funky creative development work",
+      "Passionate, innovative team atmosphere",
+      "Generous remuneration"
+    ],
+    "points_negatifs": [
+      "Exigence de mechatronics degree"
+    ],
+    "commentaire": "Offre de travail en tant que Mechatronics/Embedded Software Engineer pour une entreprise australienne, avec un environnement de travail créatif et innovant.",
+    "lien": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "27"
+  }
+]
