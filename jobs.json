@@ -26,78 +26,6 @@
     "nb_candidats": "58"
   },
   {
-    "id": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
-    "titre": "Backend Software Engineer",
-    "entreprise": "Epiq",
-    "entreprise_url": "https://www.linkedin.com/company/epiqglobal",
-    "localisation": "Hong Kong, Hong Kong SAR",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, Solr, PostgreSQL, Qdrant, Docker, Kubernetes, GitHub Actions, ArgoCD",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Localisation à Hong Kong, expérience requise entry level, technologies utilisées (Python, Docker, Kubernetes)"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de backend software engineer chez Epiq à Hong Kong, correspondant bien au profil du candidat en termes de localisation, d'expérience requise et de technologies utilisées.",
-    "lien": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
-    "date_publication": "2025-12-09T00:00:00.000Z",
-    "nb_candidats": "117"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/junior-data-engineer-sydney-at-graincorp-4326504771",
-    "titre": "Junior Data Engineer - Sydney",
-    "entreprise": "GrainCorp",
-    "entreprise_url": "https://au.linkedin.com/company/graincorp",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Analyst",
-    "stack": "Python, Data pipeline architecture, ELT/ELT processes, Data modelling principles, Relational databases, Data warehousing concepts, Spark, Hadoop, Databricks, Azure, AWS, GCP, Version control systems, Collaborative development workflows, Data governance principles",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Poste à Sydney",
-      "Hybrid work et flexible leave options",
-      "Inclusive culture"
-    ],
-    "points_negatifs": [
-      "Pas de Back-end ou Front-end dans la liste des compétences",
-      "Pas de mention de salaire"
-    ],
-    "commentaire": "Offre Junior Data Engineer à Sydney avec une équipe collaborative et un environnement de travail inclusif.",
-    "lien": "https://au.linkedin.com/jobs/view/junior-data-engineer-sydney-at-graincorp-4326504771",
-    "date_publication": "2025-12-09T00:00:00.000Z",
-    "nb_candidats": "60"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4326513620",
-    "titre": "Data Scientist Engineer",
-    "entreprise": "Dataro",
-    "entreprise_url": "https://www.linkedin.com/company/dataro",
-    "localisation": "Surry Hills, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, SQL, AWS services (EC2, Batch, Lambda, S3, Athena), DuckDB, Postgres, S3, Athena",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Développement de modèles Machine Learning",
-      "Collaboration avec une équipe expérimentée",
-      "Impact réel sur des causes sociales"
-    ],
-    "points_negatifs": [
-      "Exigence de compétences en Python, SQL et ML"
-    ],
-    "commentaire": "Rôle de Data Scientist Engineer dans une entreprise de SaaS basée à Sydney, avec possibilité de contribution à des projets d'impact social.",
-    "lien": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4326513620",
-    "date_publication": "2025-12-09T00:00:00.000Z",
-    "nb_candidats": "30 applicants"
-  },
-  {
     "id": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
     "titre": "Software Developer/ Developer Programmer",
     "entreprise": "Quantaco",
@@ -642,5 +570,30 @@
     "date_publication": "2025-12-11T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2025-12-11T15:48:48.681Z"
+  },
+  {
+    "id": "https://ae.linkedin.com/jobs/view/ai-engineer-united-arab-emirates-bcg-x-at-bcg-x-4323473225",
+    "titre": "AI Engineer",
+    "entreprise": "BCG X",
+    "entreprise_url": "https://www.linkedin.com/company/bcg-x",
+    "localisation": "Dubai, United Arab Emirates",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement full-stack",
+      "Environnement de travail international"
+    ],
+    "points_negatifs": [
+      ""
+    ],
+    "commentaire": "Offre de développement full-stack dans une grande entreprise internationale, possibilité de travailler sur des projets innovants et de collaborer avec des équipes diversifiées.",
+    "lien": "https://ae.linkedin.com/jobs/view/ai-engineer-united-arab-emirates-bcg-x-at-bcg-x-4323473225",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2025-12-12T16:12:04.711Z"
   }
 ]
