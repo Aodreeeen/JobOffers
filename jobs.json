@@ -178,5 +178,58 @@
     "date_publication": "2025-12-22T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2025-12-22T11:01:00.804Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4329032796",
+    "titre": "Graduate software engineer",
+    "entreprise": "Bending Spoons",
+    "entreprise_url": "https://it.linkedin.com/company/bendingspoons",
+    "localisation": "Dublin, Irlande",
+    "type_contrat": "CDI",
+    "type_travail": "Développement logiciel",
+    "stack": "Python, Rust, gRPC, REST APIs, Kubernetes, Docker",
+    "salaire": "£85,797 - £250,512",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "CDI",
+      "Grande ville internationale",
+      "Poste Junior",
+      "Salaire compétitif",
+      "Avantages sociaux"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur logiciel junior à Dublin, Irlande, avec des opportunités de croissance et un salaire compétitif.",
+    "lien": "https://ie.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4329032796",
+    "date_publication": "2025-12-24",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-24T11:00:56.261Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/software-engineer-at-bending-spoons-4329012924",
+    "titre": "Software engineer",
+    "entreprise": "Bending Spoons",
+    "entreprise_url": "https://it.linkedin.com/company/bendingspoons",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, Rust, gRPC, REST APIs, Kubernetes, Docker",
+    "salaire": "£85,797 - £250,512",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Entry level",
+      "Technologies variées et récentes",
+      "Avantages sociaux attractifs",
+      "Opportunité de croissance rapide",
+      "Équité dans l'entreprise offerte"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre très attractive pour un développeur junior ambitieux, avec des opportunités de croissance et des avantages sociaux exceptionnels.",
+    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-at-bending-spoons-4329012924",
+    "date_publication": "2025-12-24T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-24T11:00:56.262Z"
   }
 ]
