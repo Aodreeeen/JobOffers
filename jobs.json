@@ -231,5 +231,140 @@
     "date_publication": "2025-12-24T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2025-12-24T11:00:56.262Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/fullstack-developer-laravel-m-f-x-in-berlin-or-cologne-at-konfetti-4350511462",
+    "titre": "Fullstack Developer - Laravel (m/f/x) in Berlin or Cologne",
+    "entreprise": "konfetti",
+    "entreprise_url": "https://de.linkedin.com/company/gokonfetti",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Full-Stack",
+    "stack": "Laravel, Vue.js, PostgreSQL, MySQL, DynamoDB, AWS, Serverless",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (Junior)",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Utilisation de technologies modernes (Laravel, Vue.js, AWS)",
+      "CDI",
+      "Localisation à Berlin ou Cologne",
+      "Avantages sociaux attractifs (actions de l'entreprise, politique de vacances évolutive, etc.)"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur Full-Stack à Berlin ou Cologne, CDI, avec des avantages sociaux attractifs.",
+    "lien": "https://de.linkedin.com/jobs/view/fullstack-developer-laravel-m-f-x-in-berlin-or-cologne-at-konfetti-4350511462",
+    "date_publication": "25 décembre 2025",
+    "nb_candidats": "Sois parmi les 25 premiers candidats",
+    "date_ajout": "2025-12-25T11:00:53.827Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/softwareentwickler-m-w-d-mit-bis-zu-90%25-remote-deutschlandweit%21-angular-spring-boot-ai-development-at-sifamo-gmbh-4350481497",
+    "titre": "Softwareentwickler (m/w/d) mit bis zu 90% remote deutschlandweit! Angular, Spring Boot, AI Development",
+    "entreprise": "sifamo GmbH",
+    "entreprise_url": "https://de.linkedin.com/company/sifamo",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology",
+    "stack": "Angular, Spring Boot, Kubernetes, AI, Machine Learning, Cloud-native Tools",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Travail remote jusqu'à 90%",
+      "Technologies modernes comme Angular et Spring Boot",
+      "Possibilités de développement personnel et professionnel"
+    ],
+    "points_negatifs": [
+      "Pas de mention de CDI",
+      "Expérience avec Azure/AWS/GCP requise"
+    ],
+    "commentaire": "Offre de développeur logiciel en entrée de gamme avec des technologies modernes et des possibilités de travail remote.",
+    "lien": "https://de.linkedin.com/jobs/view/softwareentwickler-m-w-d-mit-bis-zu-90%25-remote-deutschlandweit%21-angular-spring-boot-ai-development-at-sifamo-gmbh-4350481497",
+    "date_publication": "2025-12-25T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-25T11:00:53.828Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/product-software-engineer-at-10x-akquise-4346281611",
+    "titre": "Product/Software Engineer",
+    "entreprise": "10x Akquise",
+    "entreprise_url": "https://www.linkedin.com/company/10x-akquise",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement",
+    "stack": "Typescript, React, Vite, Convex, AI",
+    "salaire": "€84,000.00/yr",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "CDI",
+      "Berlin, Allemagne",
+      "Entry level",
+      "Salaire attractif",
+      "Equity",
+      "Technologies modernes",
+      "Impact immédiat",
+      "Autonomie"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre très attractive pour un développeur junior ambitieux, avec des responsabilités importantes et une rémunération attractive.",
+    "lien": "https://de.linkedin.com/jobs/view/product-software-engineer-at-10x-akquise-4346281611",
+    "date_publication": "2025-12-24",
+    "nb_candidats": "40",
+    "date_ajout": "2025-12-25T11:00:53.828Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/softwareentwickler-f%C3%BCr-soziale-innovationen-m-w-d-at-vrg-gruppe-4329234775",
+    "titre": "Softwareentwickler für soziale Innovationen (m/w/d)",
+    "entreprise": "VRG-Gruppe",
+    "entreprise_url": "https://de.linkedin.com/company/vrg-gmbh",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement",
+    "stack": "KI-basierte Lösungen, Cloud-Technologien, Containerisierung, CI/CD, LLMs, RAGs",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement de solutions innovantes",
+      "Équipe interdisciplinaire",
+      "Flexibilité horaire et option de télétravail"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur junior en CDI à Berlin, Allemagne, avec focus sur les solutions innovantes et l'impact social.",
+    "lien": "https://de.linkedin.com/jobs/view/softwareentwickler-f%C3%BCr-soziale-innovationen-m-w-d-at-vrg-gruppe-4329234775",
+    "date_publication": "2025-12-24",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-25T11:00:53.828Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/mulesoft-developer-all-genders-at-adesso-se-3759738317",
+    "titre": "MuleSoft Developer (all genders)",
+    "entreprise": "adesso SE",
+    "entreprise_url": "https://de.linkedin.com/company/adesso-se",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement",
+    "stack": "Java, JSON, XML, REST/SOAP, MuleSoft, API, ETL, ESB, Kafka",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "CDI",
+      "Berlin",
+      "Technologies actuelles"
+    ],
+    "points_negatifs": [
+      "Pas de Junior explicitement mentionné",
+      "MuleSoft spécifique"
+    ],
+    "commentaire": "Offre de développement à Berlin, correspondant en grande partie aux critères",
+    "lien": "https://de.linkedin.com/jobs/view/mulesoft-developer-all-genders-at-adesso-se-3759738317",
+    "date_publication": "25 décembre 2025",
+    "nb_candidats": "29",
+    "date_ajout": "2025-12-25T11:00:53.828Z"
   }
 ]
