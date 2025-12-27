@@ -1,185 +1,5 @@
 [
   {
-    "id": "https://sg.linkedin.com/jobs/view/software-developer-full-stack-at-knovel-engineering-4328556335",
-    "titre": "Software Developer (Full Stack)",
-    "entreprise": "Knovel Engineering",
-    "entreprise_url": "https://sg.linkedin.com/company/knovel-engineering-pte-ltd",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Research and Information Technology",
-    "stack": "Full Stack, SQL, NoSQL, Typescript, React, Git, Docker, Kubernetes, TensorFlow, PyTorch, Jenkins",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate",
-    "score": 7,
-    "points_positifs": [
-      "Full Stack",
-      "Singapore",
-      "Competitive remuneration and benefits",
-      "Learning opportunities"
-    ],
-    "points_negatifs": [
-      "5+ years of hands-on experience in modern OOP languages"
-    ],
-    "commentaire": "Offre de développeur Full Stack à Singapour, mais nécessite 5+ ans d'expérience en OOP",
-    "lien": "https://sg.linkedin.com/jobs/view/software-developer-full-stack-at-knovel-engineering-4328556335",
-    "date_publication": "2025-12-22T00:00:00.000Z",
-    "nb_candidats": "43 applicants",
-    "date_ajout": "2025-12-22T11:01:00.802Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/frontend-engineer-engineering-infra-2026-graduate-at-shopee-4283804873",
-    "titre": "Frontend Engineer, Engineering Infra (2026 Graduate)",
-    "entreprise": "Shopee",
-    "entreprise_url": "https://sg.linkedin.com/company/shopee",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "JavaScript, HTML, CSS, React, TypeScript, Node.js",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement Front-end",
-      "Entry level",
-      "Singapore",
-      "CDI",
-      "Technologies modernes"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur Front-end en CDI à Singapour, correspondant aux critères du candidat.",
-    "lien": "https://sg.linkedin.com/jobs/view/frontend-engineer-engineering-infra-2026-graduate-at-shopee-4283804873",
-    "date_publication": "2025-12-21T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-22T11:01:00.803Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-developer-platform-at-centre-for-strategic-infocomm-technologies-csit-4264547711",
-    "titre": "Software Engineer (Developer Platform)",
-    "entreprise": "Centre for Strategic Infocomm Technologies (CSIT)",
-    "entreprise_url": "https://sg.linkedin.com/company/csitsg",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, Java, Docker, Kubernetes, API design",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level, 2 ans d'expérience",
-    "score": 7,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Expérience de développement logiciel",
-      "Utilisation de technologies actuelles"
-    ],
-    "points_negatifs": [
-      "Exigence de citoyenneté singapourienne",
-      "Expérience en DevOps ou SRE mentionnée comme 'Nice to Have'"
-    ],
-    "commentaire": "Offre de développeur logiciel à Singapour, correspondant aux critères de localisation et d'expérience junior.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-developer-platform-at-centre-for-strategic-infocomm-technologies-csit-4264547711",
-    "date_publication": "2025-12-21T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-22T11:01:00.803Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-nbet-logistics-4328647142",
-    "titre": "Software Engineer",
-    "entreprise": "NBET LOGISTICS",
-    "entreprise_url": "https://in.linkedin.com/company/nbetlogistics",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Lieu à Singapour",
-      "Niveau d'expérience entry level",
-      "Technologies variées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de Software Engineer à Singapour, niveau entry level, avec des technologies variées",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-nbet-logistics-4328647142",
-    "date_publication": "2025-12-22T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-22T11:01:00.803Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/full-stack-engineer-at-websparks-pte-ltd-4328605329",
-    "titre": "Full Stack Engineer",
-    "entreprise": "Websparks Pte Ltd",
-    "entreprise_url": "https://sg.linkedin.com/company/websparks-pte-ltd",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Nuxt, Node JS, Angular, React JS, Go, Agile, DevOps, Cloud",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Lieu à Singapour",
-      "Entry level",
-      "Technologies modernes"
-    ],
-    "points_negatifs": [
-      "1-year contract",
-      "DevOps mentionné"
-    ],
-    "commentaire": "Offre pertinente mais nécessite attention sur le contrat et les responsabilités DevOps",
-    "lien": "https://sg.linkedin.com/jobs/view/full-stack-engineer-at-websparks-pte-ltd-4328605329",
-    "date_publication": "2025-12-22T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-22T11:01:00.803Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/backend-software-engineer-digital-bank-at-shopee-4345702181",
-    "titre": "Backend Software Engineer - Digital Bank",
-    "entreprise": "Shopee",
-    "entreprise_url": "https://sg.linkedin.com/company/shopee",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "Golang, Python, C++, Java, MySQL, Redis, Kafka, Kubernetes, HTTP/TCP, XML/JSON/Protocol Buffers",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Lieu à Singapour",
-      "Entry level",
-      "Technologies variées et récentes"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre pertinente pour un développeur junior full-stack",
-    "lien": "https://sg.linkedin.com/jobs/view/backend-software-engineer-digital-bank-at-shopee-4345702181",
-    "date_publication": "2025-12-21T00:00:00.000Z",
-    "nb_candidats": "112 applicants",
-    "date_ajout": "2025-12-22T11:01:00.804Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/entry-level-software-developer-at-grupo-r-v-marketing-digital-4345636596",
-    "titre": "ENTRY LEVEL SOFTWARE DEVELOPER",
-    "entreprise": "GRUPO R&V MARKETING DIGITAL",
-    "entreprise_url": "https://pe.linkedin.com/company/grupo-r-v-marketing-digital",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, Python, C++, JavaScript, HTML, CSS, MySQL, PostgreSQL, Git",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Poste Entry Level",
-      "Technologies variées",
-      "CDI implicite"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre correspondant bien au profil, possibilité de développement variée",
-    "lien": "https://sg.linkedin.com/jobs/view/entry-level-software-developer-at-grupo-r-v-marketing-digital-4345636596",
-    "date_publication": "2025-12-22T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-22T11:01:00.804Z"
-  },
-  {
     "id": "https://ie.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4329032796",
     "titre": "Graduate software engineer",
     "entreprise": "Bending Spoons",
@@ -366,5 +186,56 @@
     "date_publication": "25 décembre 2025",
     "nb_candidats": "29",
     "date_ajout": "2025-12-25T11:00:53.828Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/entry-level-software-developer-at-confidencial-4350646213",
+    "titre": "ENTRY LEVEL SOFTWARE DEVELOPER",
+    "entreprise": "Confidencial",
+    "entreprise_url": "https://www.linkedin.com/company/confidencialrole",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, Python, C++, JavaScript, HTML, CSS, MySQL, PostgreSQL, Git",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Entry-level",
+      "Développement Full-Stack",
+      "Sydney, Australie",
+      "CDI",
+      "Technologies variées"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondant parfaitement au profil du candidat, notamment en termes de niveau d'expérience et de localisation.",
+    "lien": "https://au.linkedin.com/jobs/view/entry-level-software-developer-at-confidencial-4350646213",
+    "date_publication": "2025-12-27",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-27T11:00:51.530Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-development-graduate-2026-aws-sydney-at-amazon-web-services-aws-4298253517",
+    "titre": "Software Development Graduate (2026, AWS), Sydney",
+    "entreprise": "Amazon Web Services (AWS)",
+    "entreprise_url": "https://www.linkedin.com/company/amazon-web-services",
+    "localisation": "Sydney, Australie",
+    "type_contrat": "CDI",
+    "type_travail": "Développement logiciel",
+    "stack": "C/C++, Java, Perl, UNIX, Linux, AWS",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "CDI",
+      "Sydney, Australie",
+      "Entry level"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développement logiciel en CDI à Sydney pour un profil junior",
+    "lien": "https://au.linkedin.com/jobs/view/software-development-graduate-2026-aws-sydney-at-amazon-web-services-aws-4298253517",
+    "date_publication": "2025-12-26",
+    "nb_candidats": "Plus de 200 candidats",
+    "date_ajout": "2025-12-27T11:00:51.531Z"
   }
 ]
