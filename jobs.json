@@ -386,5 +386,35 @@
     "date_publication": "2025-12-29T00:00:00.000Z",
     "nb_candidats": "58 applicants",
     "date_ajout": "2025-12-29T11:00:23.103Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
+    "titre": "Software Engineer",
+    "entreprise": "Epic",
+    "entreprise_url": "https://www.linkedin.com/company/epic1979",
+    "localisation": "Madison, WI, États-Unis",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "JS, TS, C#",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Poste en développement logiciel",
+      "Entry level",
+      "Utilisation de technologies modernes (JS, TS, C#)",
+      "Impact sur la vie de patients",
+      "Avantages sociaux complets",
+      "Relocation financée"
+    ],
+    "points_negatifs": [
+      "Localisation à Madison, WI (pas dans les villes internationales listées)",
+      "Pas de mention de développement Full-Stack"
+    ],
+    "commentaire": "Offre de poste en développement logiciel chez Epic, avec des technologies modernes et un impact significatif. La localisation à Madison, WI, est cependant en dehors des villes internationales listées.",
+    "lien": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
+    "date_publication": "2025-12-29",
+    "nb_candidats": "Plus de 200 candidats",
+    "date_ajout": "2025-12-30T11:00:19.603Z"
   }
 ]
