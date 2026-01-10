@@ -1,58 +1,5 @@
 [
   {
-    "id": "https://ie.linkedin.com/jobs/view/implementation-specialist-saas-at-userpilot-4330546727",
-    "titre": "Implementation Specialist (SaaS)",
-    "entreprise": "Userpilot",
-    "entreprise_url": "https://www.linkedin.com/company/teamuserpilot",
-    "localisation": "Dublin, Ireland",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "SaaS, JavaScript SDKs, event tracking, data analytics, product behavior",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "SaaS",
-      "Entry level",
-      "Dublin, Ireland"
-    ],
-    "points_negatifs": [
-      "Pas de mention de développement full-stack"
-    ],
-    "commentaire": "Offre en SaaS à Dublin, Ireland, pour un Implementation Specialist. Pas de développement full-stack mentionné.",
-    "lien": "https://ie.linkedin.com/jobs/view/implementation-specialist-saas-at-userpilot-4330546727",
-    "date_publication": "2026-01-06",
-    "nb_candidats": "48 applicants",
-    "date_ajout": "2026-01-07T11:00:15.582Z"
-  },
-  {
-    "id": "https://ie.linkedin.com/jobs/view/utility-data-management-and-interoperability-engineer-at-epri-4178553101",
-    "titre": "Utility Data Management and Interoperability Engineer",
-    "entreprise": "EPRI",
-    "entreprise_url": "https://www.linkedin.com/company/epri",
-    "localisation": "Dublin, Ireland",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Data Management, Interoperability, Grid Model Management, IEC-CIM/CGMES, SQL, Kafka, Hadoop, UML, Archimate",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level, 2-3 ans d'expérience",
-    "score": 7,
-    "points_positifs": [
-      "Entry level",
-      "Dublin, Ireland",
-      "Data Management, Interoperability"
-    ],
-    "points_negatifs": [
-      "Pas de CDI explicite",
-      "Expérience en data management ou similaire requise"
-    ],
-    "commentaire": "Offre pour un poste junior en Utility Data Management and Interoperability Engineer chez EPRI à Dublin.",
-    "lien": "https://ie.linkedin.com/jobs/view/utility-data-management-and-interoperability-engineer-at-epri-4178553101",
-    "date_publication": "2026-01-07",
-    "nb_candidats": "138 applicants",
-    "date_ajout": "2026-01-07T11:00:15.582Z"
-  },
-  {
     "id": "https://de.linkedin.com/jobs/view/software-engineer-ai-all-genders-welcome-at-cosmo-consult-4351644057",
     "titre": "Software Engineer AI",
     "entreprise": "COSMO CONSULT",
@@ -349,5 +296,58 @@
     "date_publication": "2026-01-08",
     "nb_candidats": "162 applicants",
     "date_ajout": "2026-01-09T11:01:11.770Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/integration-engineer-i-at-telus-agriculture-consumer-goods-4347970022",
+    "titre": "Integration Engineer I",
+    "entreprise": "TELUS Agriculture & Consumer Goods",
+    "entreprise_url": "https://ca.linkedin.com/company/telus-agcg",
+    "localisation": "Sydney, Australie",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "XML, XSLT, SQL, Linux, SFTP, API, AS2, EDI, HTTP web services, Git, Interlok, MuleSoft, Apache Camel",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Sydney",
+      "Expérience entry-level",
+      "Technologies variées",
+      "Travail en équipe"
+    ],
+    "points_negatifs": [
+      "Pas de mention de développement Full-Stack"
+    ],
+    "commentaire": "Offre de poste en tant qu'Integration Engineer I, niveau entry-level, à Sydney.",
+    "lien": "https://au.linkedin.com/jobs/view/integration-engineer-i-at-telus-agriculture-consumer-goods-4347970022",
+    "date_publication": "2026-01-09",
+    "nb_candidats": "48 applicants",
+    "date_ajout": "2026-01-10T11:01:04.933Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4331948814",
+    "titre": "Data Scientist Engineer",
+    "entreprise": "Dataro",
+    "entreprise_url": "https://www.linkedin.com/company/dataro",
+    "localisation": "Sydney, Australie",
+    "type_contrat": "CDI",
+    "type_travail": "Développement",
+    "stack": "Python, SQL, Machine Learning, AWS, Postgres, DuckDB, S3, Athena",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Sydney",
+      "Travail sur des projets de machine learning",
+      "Utilisation de technologies modernes"
+    ],
+    "points_negatifs": [
+      "Pas de mention de développement Full-Stack"
+    ],
+    "commentaire": "Offre de Data Scientist Engineer à Sydney, Australie, avec focus sur le développement de modèles de machine learning.",
+    "lien": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4331948814",
+    "date_publication": "2026-01-10",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-01-10T11:01:04.933Z"
   }
 ]
