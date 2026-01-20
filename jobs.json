@@ -375,5 +375,64 @@
     "date_publication": "2026-01-18T00:00:00.000Z",
     "nb_candidats": "123 applicants",
     "date_ajout": "2026-01-19T11:01:15.253Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116431",
+    "titre": "Software Engineer",
+    "entreprise": "Epic",
+    "entreprise_url": "https://www.linkedin.com/company/epic1979",
+    "localisation": "Madison, WI, États-Unis",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "JS, TS, C#",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste en développement logiciel",
+      "Utilisation de technologies modernes",
+      "Impact sur la vie des patients",
+      "Avantages sociaux complets",
+      "Relocation financée"
+    ],
+    "points_negatifs": [
+      "Localisation aux États-Unis (pas dans les villes internationales listées)",
+      "Pas de mention de possibilité de travail à distance"
+    ],
+    "commentaire": "Offre de poste en développement logiciel avec des technologies modernes, mais localisation aux États-Unis.",
+    "lien": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116431",
+    "date_publication": "2026-01-19",
+    "nb_candidats": "186 applicants",
+    "date_ajout": "2026-01-20T11:01:08.048Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
+    "titre": "Software Engineer",
+    "entreprise": "Epic",
+    "entreprise_url": "https://www.linkedin.com/company/epic1979",
+    "localisation": "Madison, WI, États-Unis",
+    "type_contrat": "CDI",
+    "type_travail": "Développement logiciel",
+    "stack": "JS, TS, C#, développement logiciel",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Poste en développement logiciel",
+      "Entry level",
+      "CDI",
+      "Localisation : Madison, WI, États-Unis (pas en France)",
+      "Technologies modernes",
+      "Avantages sociaux (salaire, stock grants, sabbatique)"
+    ],
+    "points_negatifs": [
+      "Requête de relocalisation à Madison, WI",
+      "Pas de mention de la possibilité de travail à distance"
+    ],
+    "commentaire": "Offre de poste en développement logiciel chez Epic, en CDI, avec des technologies modernes et des avantages sociaux attractifs, mais nécessite une relocalisation à Madison, WI.",
+    "lien": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
+    "date_publication": "2026-01-19",
+    "nb_candidats": "Plus de 200 candidats",
+    "date_ajout": "2026-01-20T11:01:08.048Z"
   }
 ]
