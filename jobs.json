@@ -1,85 +1,5 @@
 [
   {
-    "id": "https://au.linkedin.com/jobs/view/software-development-graduate-2026-aws-sydney-at-amazon-web-services-aws-4298253517",
-    "titre": "Software Development Graduate (2026, AWS), Sydney",
-    "entreprise": "Amazon Web Services (AWS)",
-    "entreprise_url": "https://www.linkedin.com/company/amazon-web-services",
-    "localisation": "Sydney, Australie",
-    "type_contrat": "CDI",
-    "type_travail": "Développement logiciel",
-    "stack": "C/C++, Java, UNIX, Linux, Perl, AWS",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Sydney",
-      "CDI",
-      "Développement Full-Stack",
-      "Technologies variées",
-      "Entreprise internationale"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développement logiciel pour un diplômé à Sydney chez AWS.",
-    "lien": "https://au.linkedin.com/jobs/view/software-development-graduate-2026-aws-sydney-at-amazon-web-services-aws-4298253517",
-    "date_publication": "2026-01-16",
-    "nb_candidats": "Plus de 200 candidats",
-    "date_ajout": "2026-01-17T11:01:08.488Z"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/software-engineer-ii-at-relx-4359295471",
-    "titre": "Software Engineer II",
-    "entreprise": "RELX",
-    "entreprise_url": "https://uk.linkedin.com/company/relx-group",
-    "localisation": "North Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Rust, data manipulation languages, Agile, Waterfall",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level, 1+ ans d'expérience",
-    "score": 7,
-    "points_positifs": [
-      "Environnement collaboratif",
-      "Technologies variées",
-      "Avantages sociaux"
-    ],
-    "points_negatifs": [
-      "Expérience requise supérieure à 1 an"
-    ],
-    "commentaire": "Offre pertinente pour un développeur junior ambitieux, malgré une expérience requise légèrement supérieure à ses attentes.",
-    "lien": "https://au.linkedin.com/jobs/view/software-engineer-ii-at-relx-4359295471",
-    "date_publication": "2026-01-16",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-17T11:01:08.488Z"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/security-software-engineer-at-canonical-4363725256",
-    "titre": "Security Software Engineer",
-    "entreprise": "Canonical",
-    "entreprise_url": "https://uk.linkedin.com/company/canonical",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "C, C++, Python, Go, Rust, Java, Ruby, PHP, JavaScript/Typescript",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Localisation à Sydney, Australie, qui correspond à une des villes internationales recherchées",
-      "Expérience Entry level requise, ce qui correspond au profil junior",
-      "Travail en équipe distribuée avec des avantages comme un budget de développement personnel et des congés payés",
-      "Opportunité de travailler sur des projets open source et de sécurité"
-    ],
-    "points_negatifs": [
-      "Le poste est intitulé Security Software Engineer, ce qui pourrait s'éloigner du développement Full-Stack ou Front-end/Back-end classique",
-      "La description implique une focalisation forte sur la sécurité, ce qui peut être plus spécifique que recherché"
-    ],
-    "commentaire": "Offre de poste en tant que Security Software Engineer chez Canonical à Sydney, Australie. Corresponds aux critères de localisation et d'expérience, mais nécessite une focalisation sur la sécurité.",
-    "lien": "https://au.linkedin.com/jobs/view/security-software-engineer-at-canonical-4363725256",
-    "date_publication": "2026-01-17T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-17T11:01:08.488Z"
-  },
-  {
     "id": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-scotiabank-4308291512",
     "titre": "Associate Software Engineer",
     "entreprise": "Scotiabank",
@@ -434,5 +354,57 @@
     "date_publication": "2026-01-19",
     "nb_candidats": "Plus de 200 candidats",
     "date_ajout": "2026-01-20T11:01:08.048Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/entry-level-software-developer-at-powermas-academy-4365037708",
+    "titre": "Entry-Level Software Developer",
+    "entreprise": "PowerMas Academy",
+    "entreprise_url": "https://pe.linkedin.com/company/powermas-academy",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Non précisé",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Entry-level",
+      "Pas d'expérience requise",
+      "Opportunités de travail flexible",
+      "Mentorat et formation"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre pour développeur junior avec peu d'expérience requise, située à Dublin, Irlande.",
+    "lien": "https://ie.linkedin.com/jobs/view/entry-level-software-developer-at-powermas-academy-4365037708",
+    "date_publication": "2026-01-21",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-01-21T11:01:10.675Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/software-engineer-data-infrastructure-at-canonical-4365017727",
+    "titre": "Software Engineer - Data Infrastructure",
+    "entreprise": "Canonical",
+    "entreprise_url": "https://uk.linkedin.com/company/canonical",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, PostgreSQL, MySQL, MongoDB, OpenSearch, Kafka, Yugabyte, Trino, Superset, Atlas, Ranger, Redis, Linux, Kubernetes, OpenStack",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Expérience de travail à distance",
+      "Technologies variées et récentes",
+      "Formation et développement personnel",
+      "Environnement de travail flexible"
+    ],
+    "points_negatifs": [
+      "Localisation en Irlande"
+    ],
+    "commentaire": "Offre de développeur full-stack avec focus sur la data infrastructure, nécessitant une expérience en Python et systèmes distribués.",
+    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-data-infrastructure-at-canonical-4365017727",
+    "date_publication": "2026-01-21",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-01-21T11:01:10.675Z"
   }
 ]
