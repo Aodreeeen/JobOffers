@@ -107,5 +107,30 @@
     "date_publication": "2026-01-28",
     "nb_candidats": "189 applicants",
     "date_ajout": "2026-01-28T13:10:26.976Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/smartcomm-developer-at-iag-4367436798",
+    "titre": "SmartComm Developer",
+    "entreprise": "IAG",
+    "entreprise_url": "https://au.linkedin.com/company/iag",
+    "localisation": "Sydney, Australie",
+    "type_contrat": "CDI",
+    "type_travail": "Développement",
+    "stack": "Java, SmartComm modules, API",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Emplacement à Sydney",
+      "CDI",
+      "Entry level",
+      "Technologies variées"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur SmartComm en CDI à Sydney, Australie, pour un profil junior.",
+    "lien": "https://au.linkedin.com/jobs/view/smartcomm-developer-at-iag-4367436798",
+    "date_publication": "30 janvier 2026",
+    "nb_candidats": "Parmi les 25 premiers candidats",
+    "date_ajout": "2026-01-31T11:00:27.004Z"
   }
 ]
