@@ -1,114 +1,5 @@
 [
   {
-    "id": "https://ie.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4366462112",
-    "titre": "Graduate software engineer",
-    "entreprise": "Bending Spoons",
-    "entreprise_url": "https://it.linkedin.com/company/bendingspoons",
-    "localisation": "Dublin, Ireland",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Full-stack, end-to-end, microservices architectures, gRPC, REST APIs, Kubernetes, Docker, Python, Rust",
-    "salaire": "£85,797 (London), €66,065 (ailleurs en Europe)",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "Entry level",
-      "Grande entreprise internationale",
-      "Lieu : Dublin, Ireland"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur logiciel en tant que diplômé, niveau débutant, chez Bending Spoons à Dublin.",
-    "lien": "https://ie.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4366462112",
-    "date_publication": "2026-01-28",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-28T13:10:26.975Z"
-  },
-  {
-    "id": "https://uk.linkedin.com/jobs/view/java-software-developer-at-dxc-technology-4324199797",
-    "titre": "Java Software Developer",
-    "entreprise": "DXC Technology",
-    "entreprise_url": "https://www.linkedin.com/company/dxctechnology",
-    "localisation": "United Kingdom",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, C#, C++, Python, Docker, OpenShift, MySQL, Oracle",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Développement Java",
-      "Environnement international",
-      "Technologies variées",
-      "Avantages sociaux (pension, assurance médicale, etc.)"
-    ],
-    "points_negatifs": [
-      "Exigence de nationalité britannique ou de résidence au Royaume-Uni",
-      "Mention de DevOps dans les compétences"
-    ],
-    "commentaire": "Offre de développeur Java en entrée de gamme au Royaume-Uni, avec des technologies variées et des avantages sociaux intéressants, mais nécessite une attention particulière aux exigences de nationalité et de résidence.",
-    "lien": "https://uk.linkedin.com/jobs/view/java-software-developer-at-dxc-technology-4324199797",
-    "date_publication": "2026-01-28",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-01-28T13:10:26.975Z"
-  },
-  {
-    "id": "https://ie.linkedin.com/jobs/view/software-engineer-at-bending-spoons-4366450961",
-    "titre": "Software engineer",
-    "entreprise": "Bending Spoons",
-    "entreprise_url": "https://it.linkedin.com/company/bendingspoons",
-    "localisation": "Dublin, Ireland",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Full-stack, end-to-end, gRPC, REST APIs, Kubernetes, Docker, Python, Rust",
-    "salaire": "£85,797 - £250,512",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "Entry level",
-      "Grande entreprise internationale",
-      "Compétitif en termes de salaire et d'avantages",
-      "Possibilité de travail à distance",
-      "Formation et développement de carrière"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur logiciel en entrée de gamme chez Bending Spoons à Dublin, Irlande.",
-    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-at-bending-spoons-4366450961",
-    "date_publication": "2026-01-28",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-28T13:10:26.975Z"
-  },
-  {
-    "id": "https://es.linkedin.com/jobs/view/automation-software-developer-at-dxc-technology-4324279829",
-    "titre": "Automation Software Developer",
-    "entreprise": "DXC Technology",
-    "entreprise_url": "https://www.linkedin.com/company/dxctechnology",
-    "localisation": "Asturias, Espagne",
-    "type_contrat": "CDI",
-    "type_travail": "Développement logiciel",
-    "stack": "JavaScript, NodeJS, AWS, Cloud Architecture, GitHub, Jenkins, Artifactory, Jira, REST APIs, Python, Go, Bash, Terraform",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Développement cloud-native",
-      "Automation",
-      "DevOps",
-      "Technologies variées",
-      "Environnement international"
-    ],
-    "points_negatifs": [
-      "Pas de mention de poste junior spécifique",
-      "Localisation en Espagne, pas dans les villes préférées"
-    ],
-    "commentaire": "Offre de développeur logiciel automatisation, possibilité de travailler sur des technologies cloud et d'automatisation, dans un environnement international.",
-    "lien": "https://es.linkedin.com/jobs/view/automation-software-developer-at-dxc-technology-4324279829",
-    "date_publication": "2026-01-28",
-    "nb_candidats": "189 applicants",
-    "date_ajout": "2026-01-28T13:10:26.976Z"
-  },
-  {
     "id": "https://au.linkedin.com/jobs/view/smartcomm-developer-at-iag-4367436798",
     "titre": "SmartComm Developer",
     "entreprise": "IAG",
@@ -132,5 +23,60 @@
     "date_publication": "30 janvier 2026",
     "nb_candidats": "Parmi les 25 premiers candidats",
     "date_ajout": "2026-01-31T11:00:27.004Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294958460",
+    "titre": "Software Engineer, New Grad",
+    "entreprise": "Stripe",
+    "entreprise_url": "https://www.linkedin.com/company/stripe",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, Ruby, JavaScript, Scala, Go",
+    "salaire": "CA$106,400 - CA$159,600",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Grande entreprise internationale",
+      "Poste junior",
+      "Technologies variées",
+      "Salaire attractif"
+    ],
+    "points_negatifs": [
+      "Pas de possibilité de télétravail full-time"
+    ],
+    "commentaire": "Offre de poste junior en tant que Software Engineer chez Stripe, avec des technologies variées et un salaire attractif.",
+    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294958460",
+    "date_publication": "2026-01-31T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-01T11:00:33.614Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/copilot-studio-developer-at-aecon-group-inc-4324857087",
+    "titre": "Copilot Studio Developer",
+    "entreprise": "Aecon Group Inc.",
+    "entreprise_url": "https://ca.linkedin.com/company/aecon",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Microsoft Copilot Studio, Azure OpenAI, Azure AI Foundry, Python, JavaScript",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Intéressant projet AI",
+      "Utilisation de technologies modernes",
+      "Entry level"
+    ],
+    "points_negatifs": [
+      "Pas de CDI explicite",
+      "Localisation à Toronto, pas dans les villes préférées du candidat"
+    ],
+    "commentaire": "Offre de développeur Copilot Studio en entry level, intéressant mais nécessite vérification sur le type de contrat et la localisation.",
+    "lien": "https://ca.linkedin.com/jobs/view/copilot-studio-developer-at-aecon-group-inc-4324857087",
+    "date_publication": "2026-01-31T00:00:00.000Z",
+    "nb_candidats": "84 applicants",
+    "date_ajout": "2026-02-01T11:00:33.614Z"
   }
 ]
