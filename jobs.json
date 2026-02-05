@@ -1,186 +1,5 @@
 [
   {
-    "id": "https://sg.linkedin.com/jobs/view/robotics-software-engineer-at-dso-national-laboratories-4260006109",
-    "titre": "Robotics Software Engineer",
-    "entreprise": "DSO National Laboratories",
-    "entreprise_url": "https://sg.linkedin.com/company/dso-national-laboratories",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering, Science, and Research",
-    "stack": "C, C++, C#, Python",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Travail en équipe",
-      "Technologies avancées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre pertinente pour un développeur junior ambitieux",
-    "lien": "https://sg.linkedin.com/jobs/view/robotics-software-engineer-at-dso-national-laboratories-4260006109",
-    "date_publication": "2026-02-02T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-02T11:00:39.778Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-visa-4367796051",
-    "titre": "Software Engineer",
-    "entreprise": "Visa",
-    "entreprise_url": "https://www.linkedin.com/company/visa",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering",
-    "stack": "Java, J2EE, Microservices, Spring, Hibernate, REST APIs, TypeScript, ReactJS, Python, Jax, PyTorch",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate",
-    "score": 7,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Technologies variées",
-      "Entreprise mondiale"
-    ],
-    "points_negatifs": [
-      "Expérience requise de 3+ ans"
-    ],
-    "commentaire": "Offre de Software Engineer à Singapour, intéressant mais nécessite 3+ ans d'expérience",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-visa-4367796051",
-    "date_publication": "2026-02-02",
-    "nb_candidats": "107 applicants",
-    "date_ajout": "2026-02-02T11:00:39.778Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-vertex-holdings-4367821360",
-    "titre": "Software Engineer",
-    "entreprise": "Vertex Holdings",
-    "entreprise_url": "https://sg.linkedin.com/company/vertex-holdings",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering, Consulting, and Information Technology",
-    "stack": "Python, JavaScript, Django, FastAPI, React, PostgreSQL, Terraform, Generative AI, LangChain, LangGraph",
-    "salaire": "Non précisé",
-    "experience_requise": "0-5 ans",
-    "score": 7,
-    "points_positifs": [
-      "Emplacement à Singapour, ville internationale",
-      "Expérience Full-Stack requise",
-      "Utilisation de technologies récentes comme Generative AI et LangChain",
-      "Petite équipe agile et innovante"
-    ],
-    "points_negatifs": [
-      "Expérience requise : 0-5 ans, ce qui est un peu large",
-      "Pas de mention spécifique de CDI"
-    ],
-    "commentaire": "Offre de Software Engineer à Singapour, avec focus sur Full-Stack et Generative AI. Corresponds aux critères de localisation et de type de travail.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-vertex-holdings-4367821360",
-    "date_publication": "2026-02-02T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-02-02T11:00:39.778Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4352582838",
-    "titre": "Frontend Engineer (Desktop) - Singapore",
-    "entreprise": "Plaud",
-    "entreprise_url": "https://www.linkedin.com/company/plaudai",
-    "localisation": "Singapour, Singapour",
-    "type_contrat": "CDI",
-    "type_travail": "Développement Front-end",
-    "stack": "Vue/React, Electron, C++",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Localisation à Singapour correspond aux critères",
-      "Poste en développement Front-end, correspondant aux compétences",
-      "Expérience requise 'Entry level', parfait pour un junior",
-      "Technologies intéressantes comme Electron et C++",
-      "Avantages sociaux attractifs (ESOP, outils AI, équipements, assurances)"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre très attractive pour un développeur junior ambitieux, située à Singapour avec des technologies modernes et une entreprise innovante.",
-    "lien": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4352582838",
-    "date_publication": "2026-02-02",
-    "nb_candidats": "105",
-    "date_ajout": "2026-02-02T11:00:39.778Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/full-stack-engineer-at-synthesis-4368169968",
-    "titre": "Full Stack Engineer",
-    "entreprise": "Synthesis",
-    "entreprise_url": "https://sg.linkedin.com/company/synthesispartners",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, TypeScript, NodeJS, FastAPI, Flask, Express, NestJS, PostgreSQL, Google Cloud, AWS, Docker, Kubernetes",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate",
-    "score": 7,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Utilisation de technologies variées comme Python, TypeScript, NodeJS",
-      "Expérience avec des bases de données PostgreSQL et des cloud providers"
-    ],
-    "points_negatifs": [
-      "Pas de mention explicite de 'Junior' ou 'Entry level'",
-      "Expérience avec des technologies spécifiques requise"
-    ],
-    "commentaire": "Offre de poste pour un Full Stack Engineer à Singapour, nécessitant des compétences en Python, TypeScript, NodeJS, et d'autres technologies. La localisation à Singapour et l'utilisation de technologies variées sont des points positifs.",
-    "lien": "https://sg.linkedin.com/jobs/view/full-stack-engineer-at-synthesis-4368169968",
-    "date_publication": "2026-02-02T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-02-02T11:00:39.778Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/junior-intermediate-software-engineer-backend-at-flipster-4368174377",
-    "titre": "Junior/Intermediate Software Engineer (Backend)",
-    "entreprise": "Flipster",
-    "entreprise_url": "https://ae.linkedin.com/company/flipster-official",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "Python, Rust",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate",
-    "score": 9,
-    "points_positifs": [
-      "Localisation à Singapour",
-      "Développement backend",
-      "Technologies : Python, Rust",
-      "Expérience Junior/Intermediate"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur backend junior/intermédiaire à Singapour, avec des technologies telles que Python et Rust.",
-    "lien": "https://sg.linkedin.com/jobs/view/junior-intermediate-software-engineer-backend-at-flipster-4368174377",
-    "date_publication": "2026-02-02",
-    "nb_candidats": "86 applicants",
-    "date_ajout": "2026-02-02T11:00:39.778Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4351866939",
-    "titre": "Frontend Engineer (Desktop) - Singapore",
-    "entreprise": "Plaud",
-    "entreprise_url": "https://www.linkedin.com/company/plaudai",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Vue/React, Electron, C++",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Lieu à Singapour",
-      "Entreprise internationale",
-      "Technologies de pointe",
-      "Participation au capital de l'entreprise"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre correspondant parfaitement au profil du candidat, avec un focus sur le développement front-end et une localisation à Singapour.",
-    "lien": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4351866939",
-    "date_publication": "2026-02-02",
-    "nb_candidats": "74",
-    "date_ajout": "2026-02-02T11:00:39.779Z"
-  },
-  {
     "id": "https://ie.linkedin.com/jobs/view/software-engineer-at-life-scientific-4368243460",
     "titre": "Software Engineer",
     "entreprise": "Life Scientific",
@@ -259,5 +78,166 @@
     "date_publication": "2026-02-03",
     "nb_candidats": "25",
     "date_ajout": "2026-02-04T11:00:34.172Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/fullstack-developer-all-genders-at-meteocontrol-4369465588",
+    "titre": "Fullstack Developer (all genders)",
+    "entreprise": "meteocontrol",
+    "entreprise_url": "https://de.linkedin.com/company/meteocontrol",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Full-Stack",
+    "stack": "Angular, TypeScript, HTML, CSS, Kotlin/Ktor, Node.js, PostgreSQL",
+    "salaire": "Non précisé",
+    "experience_requise": "2 ans d'expérience",
+    "score": 7,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "CDI",
+      "Berlin",
+      "Technologies modernes"
+    ],
+    "points_negatifs": [
+      "2 ans d'expérience requis"
+    ],
+    "commentaire": "Offre de développement Full-Stack à Berlin, CDI, avec des technologies modernes, mais nécessite 2 ans d'expérience",
+    "lien": "https://de.linkedin.com/jobs/view/fullstack-developer-all-genders-at-meteocontrol-4369465588",
+    "date_publication": "2026-02-05",
+    "nb_candidats": "40",
+    "date_ajout": "2026-02-05T11:00:41.582Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/backend-engineer-agents-team-at-taktile-4369258510",
+    "titre": "Backend Engineer - Agents Team",
+    "entreprise": "Taktile",
+    "entreprise_url": "https://www.linkedin.com/company/taktile1",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Back-end",
+    "stack": "Python, FastAPI, Flask, Django, AWS, SQL",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Localisation à Berlin, ville internationale",
+      "Travail en équipe avec une culture d'entreprise encourageante",
+      "Utilisation de technologies récentes et variées",
+      "Possibilités de croissance personnelle et professionnelle",
+      "Compensation attractive avec des actions et un budget de développement"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondant parfaitement au profil du candidat Aodren Gloux, avec une localisation à Berlin et un poste de développement back-end en CDI.",
+    "lien": "https://de.linkedin.com/jobs/view/backend-engineer-agents-team-at-taktile-4369258510",
+    "date_publication": "2026-02-04",
+    "nb_candidats": "77",
+    "date_ajout": "2026-02-05T11:00:41.582Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/full-stack-entwickler-mit-schwerpunkt-frontend-m-w-d-at-cbe-digiden-ag-4359812293",
+    "titre": "Full Stack Entwickler mit Schwerpunkt Frontend (m/w/d)",
+    "entreprise": "CBE DIGIDEN AG",
+    "entreprise_url": "https://de.linkedin.com/company/cbe-digiden",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Full-Stack avec Schwerpunkt Frontend",
+    "stack": "WordPress, TYPO3, Drupal, HTML, CSS, JavaScript, PHP, React, Angular, Vue.js",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (Expérience en développement frontend)",
+    "score": 7,
+    "points_positifs": [
+      "Développement Full-Stack avec Schwerpunkt Frontend",
+      "Utilisation de technologies modernes (React, Angular, Vue.js)",
+      "Environnement de travail inspirant avec des projets variés",
+      "Avantages sociaux (flexible Arbeitszeiten, Homeoffice, ÖPNV-Ticket/Jobrad, etc.)"
+    ],
+    "points_negatifs": [
+      "L'offre exige une expérience en développement frontend avec Schwerpunkt sur WordPress",
+      "Pas de mention explicite de possibilité de travail à distance pour les candidats internationaux"
+    ],
+    "commentaire": "L'offre correspond aux critères du candidat, même si l'expérience requise semble être légèrement supérieure à ce qu'il a actuellement.",
+    "lien": "https://de.linkedin.com/jobs/view/full-stack-entwickler-mit-schwerpunkt-frontend-m-w-d-at-cbe-digiden-ag-4359812293",
+    "date_publication": "2026-02-05",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-05T11:00:41.583Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/software-engineer-with-a-focus-on-ai-m-w-d-at-machine-learning-reply-gmbh-4369484059",
+    "titre": "Software Engineer with a focus on AI (m/w/d)",
+    "entreprise": "Machine Learning Reply GmbH",
+    "entreprise_url": "https://de.linkedin.com/company/machine-learning-reply-de",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "Full-time",
+    "type_travail": "Consulting",
+    "stack": "Python, Java, JavaScript, AI, Cloud, MLOps, LLMs, vector databases, orchestration frameworks, Flask, FastAPI, Spring Boot, PyTorch, TensorFlow, Hugging Face, LangChain, OpenAI APIs, Docker, Kubernetes",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Travail sur des projets innovants d'AI et de Software Engineering",
+      "Possibilité de développement de compétences en MLOps, architecture cloud, ingénierie de données et AI générative",
+      "Collaboration avec des partenaires technologiques de premier plan"
+    ],
+    "points_negatifs": [
+      "Exigence de niveau C1 en allemand",
+      "Localisation à Berlin ou Munich (pas de possibilité de télétravail full)"
+    ],
+    "commentaire": "Offre pertinente pour un développeur junior ambitieux intéressé par l'AI et le développement Full-Stack",
+    "lien": "https://de.linkedin.com/jobs/view/software-engineer-with-a-focus-on-ai-m-w-d-at-machine-learning-reply-gmbh-4369484059",
+    "date_publication": "2026-02-04T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-05T11:00:41.583Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/full-stack-developer-m-w-d-at-proalpha-4341050349",
+    "titre": "Full Stack Developer m/w/d",
+    "entreprise": "Proalpha",
+    "entreprise_url": "https://de.linkedin.com/company/proalpha",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Full-Stack",
+    "stack": "Java, Spring Boot, REST APIs, Microservices, relationales et NoSQL-Datenbanken, Git, CI/CD-Pipelines, Kubernetes, Apache Kafka, Angular, Vue.js",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Berlin",
+      "Travail en équipe agile",
+      "Utilisation de technologies modernes",
+      "Flexibilité et avantages"
+    ],
+    "points_negatifs": [
+      "Expérience requise en Java et Spring Boot"
+    ],
+    "commentaire": "Offre de développeur Full-Stack à Berlin, Allemagne, avec des technologies modernes et un environnement de travail agile.",
+    "lien": "https://de.linkedin.com/jobs/view/full-stack-developer-m-w-d-at-proalpha-4341050349",
+    "date_publication": "2026-02-04",
+    "nb_candidats": "113",
+    "date_ajout": "2026-02-05T11:00:41.583Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/junior-softwareingenieur-schwerpunkt-llms-m-w-d-at-codewerk-4369222243",
+    "titre": "Junior Softwareingenieur Schwerpunkt LLMs",
+    "entreprise": "Codewerk",
+    "entreprise_url": "https://de.linkedin.com/company/codewerk",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement logiciel",
+    "stack": "Python, LLMs, Embeddings, RAG, Continuous Integration, Testautomatisierung",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement innovant avec LLMs",
+      "Environnement de travail ouvert et communicatif",
+      "Accès à des technologies innovantes",
+      "Possibilités de croissance et développement",
+      "Rémunération attractive et flexibilité"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondant parfaitement au profil du candidat, avec un focus sur le développement logiciel innovant et un environnement de travail attractif.",
+    "lien": "https://de.linkedin.com/jobs/view/junior-softwareingenieur-schwerpunkt-llms-m-w-d-at-codewerk-4369222243",
+    "date_publication": "2026-02-04",
+    "nb_candidats": "38",
+    "date_ajout": "2026-02-05T11:00:41.583Z"
   }
 ]
