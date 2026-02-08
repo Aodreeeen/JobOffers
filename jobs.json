@@ -1,85 +1,5 @@
 [
   {
-    "id": "https://ie.linkedin.com/jobs/view/software-engineer-at-life-scientific-4368243460",
-    "titre": "Software Engineer",
-    "entreprise": "Life Scientific",
-    "entreprise_url": "https://ie.linkedin.com/company/life-scientific",
-    "localisation": "Dublin, Irlande",
-    "type_contrat": "CDI",
-    "type_travail": "Développement Full-Stack",
-    "stack": "TypeScript, Next.js, Bun, React, Postgres",
-    "salaire": "€80k + equity",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "Entry level",
-      "CDI",
-      "Dublin ou Cambridge",
-      "Stack moderne",
-      "Equity",
-      "Autonomie"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur Full-Stack en CDI à Dublin ou Cambridge, avec un salaire de €80k + equity.",
-    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-at-life-scientific-4368243460",
-    "date_publication": "2026-02-03",
-    "nb_candidats": "45 applicants",
-    "date_ajout": "2026-02-04T11:00:34.171Z"
-  },
-  {
-    "id": "https://ie.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4357900310",
-    "titre": "Software Engineer II",
-    "entreprise": "Mastercard",
-    "entreprise_url": "https://www.linkedin.com/company/mastercard",
-    "localisation": "Dublin, Irlande",
-    "type_contrat": "CDI",
-    "type_travail": "Ingénierie et Technologie de l'Information",
-    "stack": "Python, Shell, Jenkins, Terraform, Atlantis, Nessus, Hashicorp Vault",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Expérience Entry level",
-      "Technologies variées",
-      "Localisation internationale"
-    ],
-    "points_negatifs": [
-      "Pas de mention explicite de développement Full-Stack"
-    ],
-    "commentaire": "Offre correspondant à un profil junior, avec des responsabilités orientées vers le support technique et l'amélioration de l'infrastructure.",
-    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4357900310",
-    "date_publication": "2026-02-03",
-    "nb_candidats": "80",
-    "date_ajout": "2026-02-04T11:00:34.171Z"
-  },
-  {
-    "id": "https://ie.linkedin.com/jobs/view/c%2B%2B-developer-at-oliver-james-4368261824",
-    "titre": "C++ Developer",
-    "entreprise": "Oliver James",
-    "entreprise_url": "https://uk.linkedin.com/company/oliver-james-",
-    "localisation": "Dublin, Irlande",
-    "type_contrat": "CDI",
-    "type_travail": "Développement",
-    "stack": "C++",
-    "salaire": "70 000 - 90 000 €/an",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Développement C++",
-      "Remote en Irlande",
-      "Salaire attractif"
-    ],
-    "points_negatifs": [
-      "Pas de mention de possibilités de travail à l'international"
-    ],
-    "commentaire": "Offre de développeur C++ en remote en Irlande, avec un salaire attractif et des avantages.",
-    "lien": "https://ie.linkedin.com/jobs/view/c%2B%2B-developer-at-oliver-james-4368261824",
-    "date_publication": "2026-02-03",
-    "nb_candidats": "25",
-    "date_ajout": "2026-02-04T11:00:34.172Z"
-  },
-  {
     "id": "https://de.linkedin.com/jobs/view/fullstack-developer-all-genders-at-meteocontrol-4369465588",
     "titre": "Fullstack Developer (all genders)",
     "entreprise": "meteocontrol",
@@ -239,5 +159,34 @@
     "date_publication": "2026-02-04",
     "nb_candidats": "38",
     "date_ajout": "2026-02-05T11:00:41.583Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/backend-engineer-new-products-at-evenup-4359229846",
+    "titre": "Backend Engineer, New Products",
+    "entreprise": "EvenUp",
+    "entreprise_url": "https://www.linkedin.com/company/evenup",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, TypeScript, React, Postgres, Kubernetes, Elasticsearch",
+    "salaire": "CA$125,000.00/yr - CA$173,426.00/yr",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement backend",
+      "Entry level",
+      "Technologies variées",
+      "Localisation à Toronto",
+      "Salaire attractif"
+    ],
+    "points_negatifs": [
+      "Pas de possibilité de travail à distance full-time",
+      "Pas de mention de développement Full-Stack"
+    ],
+    "commentaire": "Offre pertinente pour un développeur junior, mais nécessite une adaptation aux technologies utilisées.",
+    "lien": "https://ca.linkedin.com/jobs/view/backend-engineer-new-products-at-evenup-4359229846",
+    "date_publication": "2026-02-08T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-08T11:00:31.588Z"
   }
 ]
