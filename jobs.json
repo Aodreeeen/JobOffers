@@ -1,34 +1,5 @@
 [
   {
-    "id": "https://ca.linkedin.com/jobs/view/backend-engineer-new-products-at-evenup-4359229846",
-    "titre": "Backend Engineer, New Products",
-    "entreprise": "EvenUp",
-    "entreprise_url": "https://www.linkedin.com/company/evenup",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, TypeScript, React, Postgres, Kubernetes, Elasticsearch",
-    "salaire": "CA$125,000.00/yr - CA$173,426.00/yr",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Développement backend",
-      "Entry level",
-      "Technologies variées",
-      "Localisation à Toronto",
-      "Salaire attractif"
-    ],
-    "points_negatifs": [
-      "Pas de possibilité de travail à distance full-time",
-      "Pas de mention de développement Full-Stack"
-    ],
-    "commentaire": "Offre pertinente pour un développeur junior, mais nécessite une adaptation aux technologies utilisées.",
-    "lien": "https://ca.linkedin.com/jobs/view/backend-engineer-new-products-at-evenup-4359229846",
-    "date_publication": "2026-02-08T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-08T11:00:31.588Z"
-  },
-  {
     "id": "https://sg.linkedin.com/jobs/view/junior-software-engineer-pl-sql-fresh-graduates-at-synpulse-4363748168",
     "titre": "Junior Software Engineer | PL/SQL (Fresh Graduates)",
     "entreprise": "Synpulse",
@@ -288,5 +259,173 @@
     "date_publication": "2026-02-10T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2026-02-10T11:00:28.599Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/backend-developer-m-w-d-at-probatix-4363222814",
+    "titre": "Backend Developer (m/w/d)",
+    "entreprise": "Probatix",
+    "entreprise_url": "https://de.linkedin.com/company/probatix",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Back-end",
+    "stack": "PHP 8, Symfony 7, API Platform, Mirth Connect, HL7, FHIR, Docker, Kubernetes",
+    "salaire": "Non précisé",
+    "experience_requise": "2 ans",
+    "score": 7,
+    "points_positifs": [
+      "Poste en CDI",
+      "Localisation à Berlin, Allemagne",
+      "Technologies modernes et intéressantes",
+      "Ownership et responsabilité",
+      "Environnement de travail attractif"
+    ],
+    "points_negatifs": [
+      "Expérience requise de 2 ans",
+      "Pas de mention de possibilités de travail à distance"
+    ],
+    "commentaire": "Offre de développeur back-end à Berlin, Allemagne, avec des technologies modernes et une mission intéressante dans le domaine de la santé.",
+    "lien": "https://de.linkedin.com/jobs/view/backend-developer-m-w-d-at-probatix-4363222814",
+    "date_publication": "2026-02-11",
+    "nb_candidats": "28",
+    "date_ajout": "2026-02-12T11:00:34.295Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-origami-4364110444",
+    "titre": "Full Stack Engineer/Full Stack Developer",
+    "entreprise": "Origami",
+    "entreprise_url": "https://www.linkedin.com/company/origami-ideas",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "HTML, CSS, JavaScript, React, Angular, Vue, Node.js, Python, Java, C#, MySQL, PostgreSQL, MongoDB, RESTful APIs, GraphQL",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Full-stack développement",
+      "Entry level",
+      "Berlin, Allemagne",
+      "Technologies variées"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur Full-Stack en CDI à Berlin, Allemagne, correspondant au profil junior.",
+    "lien": "https://de.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-origami-4364110444",
+    "date_publication": "2026-02-12",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-12T11:00:34.295Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/ai-full-stack-engineer-node-js-at-almedia-4365162691",
+    "titre": "AI Full Stack Engineer (Node.js)",
+    "entreprise": "Almedia",
+    "entreprise_url": "https://de.linkedin.com/company/almediaco",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Full-Stack",
+    "stack": "Node.js, AI APIs, TypeScript, n8n",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Intégration AI",
+      "Entry level",
+      "Berlin, Allemagne",
+      "CDI",
+      "Equity pour les employés",
+      "Avantages sociaux"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondant parfaitement au profil du candidat, développement Full-Stack avec focus AI à Berlin.",
+    "lien": "https://de.linkedin.com/jobs/view/ai-full-stack-engineer-node-js-at-almedia-4365162691",
+    "date_publication": "2026-02-12",
+    "nb_candidats": "176",
+    "date_ajout": "2026-02-12T11:00:34.295Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/founding-engineer-at-zentio-4363125632",
+    "titre": "Founding Engineer",
+    "entreprise": "Zentio",
+    "entreprise_url": "https://www.linkedin.com/company/zentio",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering",
+    "stack": "React, TypeScript, Postgres, Docker, REST, tRPC, TanStack Query, TanStack Router, Vite",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Full-stack",
+      "React",
+      "Postgres",
+      "Docker",
+      "Berlin"
+    ],
+    "points_negatifs": [
+      "Pas de mention de CDI"
+    ],
+    "commentaire": "Offre de founding engineer à Berlin, centrée sur le développement Full-stack avec React et Postgres.",
+    "lien": "https://de.linkedin.com/jobs/view/founding-engineer-at-zentio-4363125632",
+    "date_publication": "2026-02-11",
+    "nb_candidats": "38",
+    "date_ajout": "2026-02-12T11:00:34.295Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/web-developer-at-origami-4371395427",
+    "titre": "Web Developer",
+    "entreprise": "Origami",
+    "entreprise_url": "https://www.linkedin.com/company/origami-ideas",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "HTML, CSS, JavaScript, Google Analytics, Google Tag Manager",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level / Mid-Level",
+    "score": 7,
+    "points_positifs": [
+      "Localisation à Berlin, Allemagne, qui correspond aux critères",
+      "Type de contrat Full-time, ce qui correspond",
+      "Niveau d'expérience Entry level, ce qui correspond parfaitement",
+      "Mention de développement web et d'analytics",
+      "Utilisation de technologies pertinentes comme HTML, CSS, JavaScript"
+    ],
+    "points_negatifs": [
+      "Pas de mention explicite de CDI",
+      "Expérience précédente en web development, analytics ou digital marketing est préférée mais pas obligatoire"
+    ],
+    "commentaire": "Offre pertinente pour un développeur junior ambitieux, avec un focus sur le développement web et l'analytics.",
+    "lien": "https://de.linkedin.com/jobs/view/web-developer-at-origami-4371395427",
+    "date_publication": "2026-02-12T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-12T11:00:34.295Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/founding-engineer-at-opus-4363230905",
+    "titre": "Founding Engineer",
+    "entreprise": "opus",
+    "entreprise_url": "https://de.linkedin.com/company/opus-manufacturing",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology",
+    "stack": "Python, FastAPI, Pydantic, SQLAlchemy, TypeScript, React, GCP, AWS, AI, LLMs",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Intégrant AI et LLMs",
+      "Berlin, Allemagne",
+      "CDI",
+      "Equity et compensation compétitive"
+    ],
+    "points_negatifs": [
+      "Pas de Junior explicite",
+      "Expérience avec AI et LLMs exigée"
+    ],
+    "commentaire": "Offre de founding engineer à Berlin avec focus sur AI et LLMs, intéressant pour un développeur full-stack junior ambitieux mais nécessite expérience avec AI.",
+    "lien": "https://de.linkedin.com/jobs/view/founding-engineer-at-opus-4363230905",
+    "date_publication": "2026-02-11",
+    "nb_candidats": "50 applicants",
+    "date_ajout": "2026-02-12T11:00:34.296Z"
   }
 ]
