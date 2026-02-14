@@ -196,5 +196,32 @@
     "date_publication": "2026-02-12T00:00:00.000Z",
     "nb_candidats": "Over 200 applicants",
     "date_ajout": "2026-02-13T11:00:30.353Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-engineering-productivity-android-early-career-at-google-4365583264",
+    "titre": "Software Engineer, Engineering Productivity, Android, Early Career",
+    "entreprise": "Google",
+    "entreprise_url": "https://www.linkedin.com/company/google",
+    "localisation": "Sydney, Australie",
+    "type_contrat": "CDI",
+    "type_travail": "Développement",
+    "stack": "Android, Python, C, C++, Java, JavaScript",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Google",
+      "Sydney",
+      "Entry level",
+      "Développement Android"
+    ],
+    "points_negatifs": [
+      "Spécialisation Android"
+    ],
+    "commentaire": "Offre de développeur Android chez Google à Sydney, correspondant au profil Junior.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-engineering-productivity-android-early-career-at-google-4365583264",
+    "date_publication": "2026-02-14",
+    "nb_candidats": "59",
+    "date_ajout": "2026-02-14T11:00:26.197Z"
   }
 ]
