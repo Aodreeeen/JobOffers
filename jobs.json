@@ -554,5 +554,95 @@
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2026-02-18T15:06:04.055Z",
     "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Full Stack Engineer position at Iconic Web Media. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to Iconic Web Media.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript — including an eye-tracking system — while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building impactful digital solutions for your clients.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-govtech-at-avepoint-4196532835",
+    "titre": "Software Engineer (GovTech)",
+    "entreprise": "AvePoint",
+    "entreprise_url": "https://www.linkedin.com/company/avepoint",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site/Hybrid",
+    "stack": "JavaScript (ES5/6), Node.js, React.js, Docker, CI/CD, AWS/Cloud, PostgreSQL/MongoDB, Selenium (bonus), Webpack/Gulp (bonus)",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level (Minimum 2 years)",
+    "score": 8,
+    "points_positifs": [
+      "Entry level parfaitement adapté au profil Junior avec possibilité de compenser l'expérience par les projets personnels",
+      "Stack technique très alignée : JavaScript moderne, React, Node.js et Docker/CI/CD mentionnés comme nice bonus",
+      "Mission GovTech (secteur public) offrant un impact concret et multi-disciplinaire",
+      "Gestion des déploiements cloud et on-premise correspondant à l'expertise en automation d'Aodren"
+    ],
+    "points_negatifs": [
+      "Forte concurrence avec plus de 200 candidats",
+      "Testing frameworks spécifiques (Karma, Mocha, Chai, Sinon) non explicitement maîtrisés",
+      "Exigence de 2 ans d'expérience légèrement supérieure à l'expérience professionnelle formelle (1.5 an)"
+    ],
+    "commentaire": "Excellent match technique pour un profil Full-Stack junior à Singapour. Le poste combine parfaitement développement web moderne (React/Node) et automatisation de déploiement, valorisant ainsi la double expertise technique et DevOps d'Aodren.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-govtech-at-avepoint-4196532835",
+    "date_publication": "2026-02-18T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-18T20:10:21.674Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer (GovTech) position at AvePoint. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to AvePoint.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript — including an eye-tracking system — while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to modernizing government services through impactful technology.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/java-developer-at-avepoint-4039760488",
+    "titre": "Java Developer",
+    "entreprise": "AvePoint",
+    "entreprise_url": "https://www.linkedin.com/company/avepoint",
+    "localisation": "Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "On-site",
+    "stack": "Java, .NET, SQL, Docker, Maven, MSBuild",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Entry level position perfectly matching candidate's 1.5 years of professional experience",
+      "Singapore location aligns with candidate's targeting",
+      "Tech stack includes Java, SQL, Docker and CI/CD automation matching candidate's skills",
+      "Full-time permanent contract in global data management company"
+    ],
+    "points_negatifs": [
+      "Requires after-hours support duty and on-call rotation",
+      "High competition with over 200 applicants",
+      "Requires .NET knowledge not emphasized in candidate's current profile"
+    ],
+    "commentaire": "Entry-level Java position in Singapore matching Aodren's software engineering background and automation experience, ideal for transitioning C++ skills to Java enterprise development despite requiring after-hours support.",
+    "lien": "https://sg.linkedin.com/jobs/view/java-developer-at-avepoint-4039760488",
+    "date_publication": "2026-02-18",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-18T20:10:21.674Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Java Developer position at AvePoint. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to AvePoint.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript — including an eye-tracking system — while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to delivering secure, high-performance data management solutions for the financial industry.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-developer-up-to-270-000-sgd-base-%2B-bonus-%2B-benefits-at-hunter-bond-4372622074",
+    "titre": "Software Developer",
+    "entreprise": "Hunter Bond",
+    "entreprise_url": "https://uk.linkedin.com/company/hunter-bond",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "Hybrid",
+    "stack": "Python, Java, C++, real-time trading systems, automation frameworks",
+    "salaire": "Up to 270,000 SGD Base + Bonus + Benefits",
+    "experience_requise": "Associate (1+ years)",
+    "score": 8,
+    "points_positifs": [
+      "Niveau 'Associate' demandant 1+ an d'expérience correspond parfaitement au profil (~1.5 an)",
+      "Fort accent sur l'automatisation des workflows et l'optimisation des processus (aligné avec la réduction de 85% du déploiement)",
+      "Stack technique flexible (Python/Java/C++) incluant les langages maîtrisés par le candidat",
+      "Localisation Singapour avec arrangement hybride",
+      "Environnement 'technology-driven' valorisant les solutions IA et l'automatisation"
+    ],
+    "points_negatifs": [
+      "Hunter Bond est un cabinet de recrutement, l'employeur final n'est pas identifié",
+      "Fourchette salariale élevée (270k SGD) suggère des exigences de performance très élevées pour un poste Associate"
+    ],
+    "commentaire": "Excellent match pour un poste de Software Developer orienté automation dans la finance/trading. L'expérience requise (1+) correspond exactement au profil junior/mid-level recherché, et l'emphase sur l'automatisation des workflows correspond aux projets d'Aodren (n8n, réduction 85% déploiement, scraping).",
+    "lien": "https://sg.linkedin.com/jobs/view/software-developer-up-to-270-000-sgd-base-%2B-bonus-%2B-benefits-at-hunter-bond-4372622074",
+    "date_publication": "2026-02-18T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-18T20:10:21.675Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Developer position at Hunter Bond. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to Hunter Bond.\n\nWhat sets me apart is how I leverage AI tools to solve real problems. I built ValoFenua, a real estate valuation platform where a daily automated scraper feeds 1,300+ listings into an AI agent that computes price estimates from live market data. I also designed an automated job search pipeline using n8n workflows, AI agents, and an MCP server — systems where AI drives core functionality, not just assists. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building scalable systems that power real-time trading and automation.\n\nBest regards,\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
   }
 ]
